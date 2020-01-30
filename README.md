@@ -12,7 +12,7 @@ De la siguiente manera:
 
 example/
 
-Estamos evitando que se procese en el control de versiones todo el contenido de la carpeta "example ".
+Estamos evitando que se procese en el control de versiones de todo el contenido de la carpeta "example ".
 
 Si colocamos la siguiente línea:
 
