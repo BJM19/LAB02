@@ -1,4 +1,3 @@
-## LAB02
 # GITNORE 
 # ¿Qué es?
 Esta herramienta sirve para decirle a GIT que archivos o directorios debe ignorar para no subir al repositorio.
