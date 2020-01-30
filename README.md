@@ -9,10 +9,13 @@ Independientemente del nivel de conocimientos de GIT, cualquiera puede utilizarl
 Se crea un archivo que se llama “.gitnore” en la carpeta raíz del proyecto. En este archivo se coloca un texto plano, con todas las carpetas que quieres que Git ignore.
 
 De la siguiente manera:
+
 example/
+
 Estamos evitando que se procese en el control de versiones todo el contenido de la carpeta "example ".
 
 Si colocamos la siguiente línea:
 
 *.java
+
 Estaremos evitando que el sistema de control de versiones procese todos los archivos acabados de .java .
